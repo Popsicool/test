@@ -3,3 +3,7 @@ welcome to my repository
 am learning cloud computing
 its getting interesting
 hey
+ok
+dones
+HHs
+done
